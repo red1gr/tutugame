@@ -1,4 +1,4 @@
-# TUTUGAME
+# TUTUGAME WEBSITE 
 
 [![GitHub issues](https://img.shields.io/github/issues/red1gr/TUTUGAME?style=for-the-badge&logo=github&logoColor=white)](https://github.com/red1gr/TUTUGAME/issues)
 [![GitHub license](https://img.shields.io/github/license/red1gr/TUTUGAME?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
